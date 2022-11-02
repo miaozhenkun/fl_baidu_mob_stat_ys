@@ -1,0 +1,6 @@
+framework module fl_baidu_mob_stat_ys {
+  umbrella header "fl_baidu_mob_stat_ys-umbrella.h"
+
+  export *
+  module * { export * }
+}

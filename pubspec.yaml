@@ -1,0 +1,24 @@
+name: fl_baidu_mob_stat_ys
+description: 参考 fl_baidu_mob_stat，感谢作者大佬。代码仓库地址参考大佬地址。
+version: 1.2.3
+repository: https://github.com/Wayaer/fl_baidu_mob_stat.git
+
+environment:
+  sdk: '>=2.12.1 <3.0.0'
+  flutter: '>=2.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^1.0.4
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: fl.baidu.mob.stat
+        pluginClass: BaiduMobStatPlugin
+      ios:
+        pluginClass: BaiduMobStatPlugin
