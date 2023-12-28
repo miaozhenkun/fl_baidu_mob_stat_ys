@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   cupertino_icons: ^1.0.2
-  fl_baidu_mob_stat_ys:
+  flutter_baidu_mob_stat:
     path: ../
   flutter:
     sdk: flutter

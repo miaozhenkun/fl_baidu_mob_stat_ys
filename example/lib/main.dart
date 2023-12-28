@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:fl_baidu_mob_stat_ys/fl_baidu_mob_stat_ys.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_baidu_mob_stat/fl_baidu_mob_stat_ys.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

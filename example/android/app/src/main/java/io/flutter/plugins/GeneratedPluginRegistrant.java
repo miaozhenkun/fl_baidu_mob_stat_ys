@@ -18,7 +18,7 @@ public final class GeneratedPluginRegistrant {
     try {
       flutterEngine.getPlugins().add(new fl.baidu.mob.stat.BaiduMobStatPlugin());
     } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin fl_baidu_mob_stat_ys, fl.baidu.mob.stat.BaiduMobStatPlugin", e);
+      Log.e(TAG, "Error registering plugin flutter_baidu_mob_stat, fl.baidu.mob.stat.BaiduMobStatPlugin", e);
     }
   }
 }

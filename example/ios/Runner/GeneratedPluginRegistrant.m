@@ -6,10 +6,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<fl_baidu_mob_stat_ys/BaiduMobStatPlugin.h>)
-#import <fl_baidu_mob_stat_ys/BaiduMobStatPlugin.h>
+#if __has_include(<flutter_baidu_mob_stat/BaiduMobStatPlugin.h>)
+#import <flutter_baidu_mob_stat/BaiduMobStatPlugin.h>
 #else
-@import fl_baidu_mob_stat_ys;
+@import flutter_baidu_mob_stat;
 #endif
 
 @implementation GeneratedPluginRegistrant

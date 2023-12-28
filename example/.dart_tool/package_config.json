@@ -20,16 +20,16 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "fl_baidu_mob_stat_ys",
-      "rootUri": "../../",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_baidu_mob_stat",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter_lints",
@@ -74,7 +74,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-28T06:42:19.985215Z",
+  "generated": "2023-12-28T08:09:43.215969Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }
