@@ -3,7 +3,7 @@
 # Run `pod lib lint baidu_mob_stat.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'fl_baidu_mob_stat_ys'
+  s.name             = 'flutter_baidu_mob_stat'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

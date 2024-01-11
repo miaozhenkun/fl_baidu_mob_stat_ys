@@ -3,27 +3,27 @@
   "packages": [
     {
       "name": "characters",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/characters-1.2.1",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "collection",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/collection-1.16.0",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/cupertino_icons-1.0.5",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/packages/flutter",
+      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.16.3-stable/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_baidu_mob_stat",
@@ -33,39 +33,45 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-1.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "lints",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/lints-1.0.1",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/lints-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/material_color_utilities-0.1.5",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.13"
+      "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/meta-1.8.0",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.10.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.16.3-stable/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.2"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///F:/flutterSdkV3/flutter_windows_3.3.10-stable/flutter/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.2",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///C:/Users/miao/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
     },
     {
       "name": "example",
@@ -74,7 +80,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-28T08:09:43.215969Z",
+  "generated": "2024-01-11T03:10:59.625523Z",
   "generator": "pub",
-  "generatorVersion": "2.18.6"
+  "generatorVersion": "3.2.3"
 }

@@ -1,3 +1,8 @@
+## 1.2.6
+fix ios bug
+## 1.2.5
+fix ios bug
+
 ## 1.2.4
 升级Android sdk 版本到  V4.0.10.5
 ## 1.2.3
