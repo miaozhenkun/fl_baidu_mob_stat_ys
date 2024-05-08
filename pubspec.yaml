@@ -1,10 +1,10 @@
 name: flutter_baidu_mob_stat
 description: 百度统计插件。
-version: 1.2.6
+version: 1.2.7
 repository: https://github.com/miaozhenkun/fl_baidu_mob_stat_ys
 
 environment:
-  sdk: '>=2.12.1 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: '>=2.0.0'
 
 dependencies:

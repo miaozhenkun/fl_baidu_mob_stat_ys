@@ -11,10 +11,10 @@ class BaiduMobStatPlugin : FlutterPlugin, MethodChannel.MethodCallHandler {
     private var channel: MethodChannel? = null
 
     override fun onAttachedToEngine(flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
-
         channel = MethodChannel(flutterPluginBinding.binaryMessenger, "fl_baidu_mob_stat_ys")
         channel!!.setMethodCallHandler(this)
         mContext = flutterPluginBinding.applicationContext
+        StatService.init(mContext,"","- Android")
         StatService.setAuthorizedState(mContext, false)
     }
 
