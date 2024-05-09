@@ -14,12 +14,15 @@ class BaiduMobStatPlugin : FlutterPlugin, MethodChannel.MethodCallHandler {
         channel = MethodChannel(flutterPluginBinding.binaryMessenger, "fl_baidu_mob_stat_ys")
         channel!!.setMethodCallHandler(this)
         mContext = flutterPluginBinding.applicationContext
-        StatService.init(mContext,"","- Android")
-        StatService.setAuthorizedState(mContext, false)
     }
 
     override fun onMethodCall(call: MethodCall, result: MethodChannel.Result) {
         when (call.method) {
+            "init" -> {
+                StatService.init(mContext,"","- Android")
+                StatService.setAuthorizedState(mContext, false)
+                result.success(true)
+            }
             "setApiKey" -> {
                 StatService.setAppKey(call.arguments as String)
                 StatService.start(mContext)

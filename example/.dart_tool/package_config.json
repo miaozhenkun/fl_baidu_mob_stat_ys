@@ -3,21 +3,21 @@
   "packages": [
     {
       "name": "characters",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/collection-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/cupertino_icons-1.0.6",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter",
@@ -33,25 +33,25 @@
     },
     {
       "name": "flutter_lints",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "lints",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/lints-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/material_color_utilities-0.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/meta-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -63,7 +63,7 @@
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "rootUri": "file:///Users/xingxing/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -74,7 +74,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-05-08T06:06:52.732548Z",
+  "generated": "2024-05-09T03:12:13.883953Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }

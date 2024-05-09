@@ -12,6 +12,12 @@ class FlBaiduMobStatYs {
 
   final MethodChannel _channel = const MethodChannel('fl_baidu_mob_stat_ys');
 
+  Future<bool> init() async {
+    bool? state = false;
+    state = await _channel.invokeMethod<bool?>('init');
+    return state ?? false;
+  }
+
   /// 设置 apiKey
   Future<bool> setApiKey(
       {required String androidKey, required String iosKey}) async {
