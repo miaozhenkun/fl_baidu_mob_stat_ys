@@ -1,0 +1,1 @@
+ /Users/xingxing/Documents/miao/futuremind/plugins/fl_baidu_mob_stat_ys/example/.dart_tool/flutter_build/b723e1d403fd2dc983c4adac929aca4b/native_assets.yaml: 
